@@ -2,6 +2,7 @@
     "files.associations": {
         "vector": "cpp",
         "numeric": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "xstring": "cpp"
     }
 }

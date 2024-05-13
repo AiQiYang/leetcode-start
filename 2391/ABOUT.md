@@ -1,9 +1,10 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <numeric>
-using namespace std;
+# 2391. 收集垃圾的最少总时间
+[题目链接](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/)
 
+## 方法一，多次遍历
+先让垃圾车跑完全程，然后再倒着往前减去多跑点时间。  
+代码如下：
+````c++
 class Solution1 {
 public:
     int garbageCollection(vector<string>& garbage, vector<int>& travel) {
@@ -24,7 +25,11 @@ public:
         return totalTime;
     }
 };
+````
 
+## 方法二，一次遍历
+与方法一相似，改进之处在于加入一个存储的数据结构，这里使用了数组。这个数组存储了'G', 'M', 'P'中每个元素最后一次出现的位置（到达起始点的距离）
+````c++
 class Solution2 {
 public:
     int garbageCollection(vector<string>& garbage, vector<int>& travel) {
@@ -43,24 +48,4 @@ public:
 
     }
 };
-
-int main() {
-    Solution2 solution;
-
-    // Test Case 1
-    vector<string> garbage1 = {"G", "P", "GP", "GG"};
-    vector<int> travel1 = {2, 4, 3};
-    cout << "Test Case 1: " << solution.garbageCollection(garbage1, travel1) << endl;
-
-    // Test Case 2
-    vector<string> garbage2 = {"GP", "PM", "MG"};
-    vector<int> travel2 = {15, 25, 35, 45};
-    cout << "Test Case 2: " << solution.garbageCollection(garbage2, travel2) << endl;
-
-    // Test Case 3
-    vector<string> garbage3 = {"GGG", "PPP", "MMM"};
-    vector<int> travel3 = {5, 10, 15, 20};
-    cout << "Test Case 3: " << solution.garbageCollection(garbage3, travel3) << endl;
-
-    return 0;
-}
+````
