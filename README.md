@@ -7,4 +7,4 @@
 ## 2244. 完成所有任务需要的最少轮数
 + `贪心`  
 + [Question Description](https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/description/)  
-- [Solution](/2244/ABOUT.md)
++ [Solution](/2244/ABOUT.md)
