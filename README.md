@@ -4,13 +4,16 @@
 + `哈希`
 + [Question Description](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/description/)  
 + [Solution](/2391/ABOUT.md)
++ [Code](/2391/2391.cpp)
 
 ## 2244. 完成所有任务需要的最少轮数
 + `贪心`  
 + [Question Description](https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/description/)  
 + [Solution](/2244/ABOUT.md)
++ [Code](/2244/2244.cpp)
 
 ## 3146. 两个字符串的排列差
 + `哈希表`
 + [Question Description](https://leetcode.cn/problems/permutation-difference-between-two-strings/description/)
 + [Solution](/3146/ABOUT.md)
++ [Code](/3146/3146.cpp)
