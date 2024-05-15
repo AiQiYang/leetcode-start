@@ -1,10 +1,13 @@
 # Leetcode Start
 这是我的力扣刷题记录
+<<<<<<< HEAD
 
 <details>
   <summary>哈希表</summary>
 
   ## 2391. 收集垃圾的最少总时间
+=======
+## 2391. 收集垃圾的最少总时间
 + `哈希表`
 + [Question Description](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/description/)  
 + [Solution](/2391/ABOUT.md)
@@ -26,6 +29,7 @@
 + [题目链接](https://leetcode.cn/problems/minimum-time-to-complete-all-tasks/description/)
 + [Solution](/2589/ABOUT.md)
 + [Code](/2589/2589.cpp)
+<<<<<<< HEAD
 
 ## 2244. 完成所有任务需要的最少轮数
 + `贪心`  
