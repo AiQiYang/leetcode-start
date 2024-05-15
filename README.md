@@ -17,3 +17,9 @@
 + [Question Description](https://leetcode.cn/problems/permutation-difference-between-two-strings/description/)
 + [Solution](/3146/ABOUT.md)
 + [Code](/3146/3146.cpp)
+
+## 2589. 完成所有任务的最少时间
++ `贪心`
++ [题目链接](https://leetcode.cn/problems/minimum-time-to-complete-all-tasks/description/)
++ [Solution](/2589/ABOUT.md)
++ [Code](/2589/2589.cpp)
