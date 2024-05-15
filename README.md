@@ -4,8 +4,6 @@
 <details>
   <summary>哈希表</summary>
 
-  ## 2391. 收集垃圾的最少总时间
-=======
 ## 2391. 收集垃圾的最少总时间
 + `哈希表`
 + [Question Description](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/description/)  
