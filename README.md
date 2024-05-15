@@ -1,6 +1,5 @@
 # Leetcode Start
 这是我的力扣刷题记录
-<<<<<<< HEAD
 
 <details>
   <summary>哈希表</summary>
