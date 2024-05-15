@@ -1,7 +1,7 @@
 # Leetcode Start
 这是我的力扣刷题记录
 ## 2391. 收集垃圾的最少总时间
-+ `哈希`
++ `哈希表`
 + [Question Description](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/description/)  
 + [Solution](/2391/ABOUT.md)
 + [Code](/2391/2391.cpp)
