@@ -26,7 +26,6 @@
 + [题目链接](https://leetcode.cn/problems/minimum-time-to-complete-all-tasks/description/)
 + [Solution](/2589/ABOUT.md)
 + [Code](/2589/2589.cpp)
-<<<<<<< HEAD
 
 ## 2244. 完成所有任务需要的最少轮数
 + `贪心`  
