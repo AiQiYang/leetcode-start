@@ -33,4 +33,10 @@
 + [Solution](/2244/ABOUT.md)
 + [Code](/2244/2244.cpp)
 
+## 1953. 你可以工作的最大周数
++ `贪心`
++ [题目链接](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/description/)
++ [Solution](/1953/ABOUT.md)
++ [Code](/1953/1953.cpp)
+
 </details>
