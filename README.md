@@ -16,6 +16,12 @@
 + [Solution](/3146/ABOUT.md)
 + [Code](/3146/3146.cpp)
 
+## 2225. 找出输掉零场或一场比赛的玩家
++ `哈希表`
++ [Question Description](https://leetcode.cn/problems/find-players-with-zero-or-one-losses/description/)
++ [Solution](/2225/ABOUT.md)
++ [Code](/2225/2225.cpp)
+
 </details>
 
 <details>
