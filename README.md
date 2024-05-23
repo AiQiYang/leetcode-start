@@ -46,8 +46,19 @@
 
 ## 1953. 你可以工作的最大周数
 + `贪心`
-+ [题目链接](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/description/)
++ [Question Description](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/description/)
 + [Solution](/1953/ABOUT.md)
 + [Code](/1953/1953.cpp)
+
+</details>
+
+<details>
+  <summary>滑动窗口</summary>
+
+## 2831. 找出最长等值子数组
++ `滑动窗口`
++ [Question Description](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/)
++ [Solution](/2831/ABOUT.md)
++ [Code](/2831/2831.cpp)
 
 </details>
