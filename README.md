@@ -27,6 +27,13 @@
 + [Question Description](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked)
 + [Solution](/49/ABOUT.md)
 + [Code](/49/49.cpp)
+
+## 2965. 找出缺失和重复的数字
++ `哈希表`
++ [Question Description](https://leetcode.cn/problems/find-missing-and-repeated-values/description/)
++ [Solution](/2965/ABOUT.md)
++ [Code](/2965/2965.cpp)
+
 </details>
 
 <details>

@@ -8,6 +8,8 @@
         "unordered_map": "cpp",
         "unordered_set": "cpp",
         "xhash": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iostream": "cpp",
+        "cassert": "cpp"
     }
 }

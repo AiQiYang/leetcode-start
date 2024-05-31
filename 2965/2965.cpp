@@ -30,21 +30,19 @@ int main() {
 
     Solution solution;
 
-    vector<vector<int>> grid1 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+    vector<vector<int>> grid1 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 5}};
     vector<int> result1 = solution.findMissingAndRepeatedValues(grid1);
-    assert(result1[0] == 5 && result1[1] == 0);
+    assert(result1[0] == 5 && result1[1] == 9);
 
     vector<vector<int>> grid2 = {{1, 2, 3}, {3, 5, 6}, {7, 8, 9}};
     vector<int> result2 = solution.findMissingAndRepeatedValues(grid2);
     assert(result2[0] == 3 && result2[1] == 4);
 
-    vector<vector<int>> grid3 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}, {10, 11, 12}};
+    vector<vector<int>> grid3 = {{1, 2, 3}, {2, 4, 5}, {6, 7, 8}};
     vector<int> result3 = solution.findMissingAndRepeatedValues(grid3);
-    assert(result3[0] == 0 && result3[1] == 0);
+    assert(result3[0] == 2 && result3[1] == 9);
 
-    vector<vector<int>> grid4 = {{1, 2, 3}, {2, 4, 5}, {6, 7, 8}};
-    vector<int> result4 = solution.findMissingAndRepeatedValues(grid4);
-    assert(result4[0] == 2 && result4[1] == 3);
-
+    cout << "All tests passed!" << endl;
+    
     return 0;
 }
