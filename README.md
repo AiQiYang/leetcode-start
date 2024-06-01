@@ -70,3 +70,14 @@
 + [Code](/2831/2831.cpp)
 
 </details>
+
+<details>
+  <summary>枚举优化</summary>
+
+## 2928. 给小朋友们分糖果 I
++ `枚举优化`
++ [Question Description](https://leetcode.cn/problems/distribute-candies-among-children-i/description/)
++ [Solution](/2928/ABOUT.md)
++ [Code](/2928/2928.cpp)
+
+</details>
