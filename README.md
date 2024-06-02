@@ -34,6 +34,12 @@
 + [Solution](/2965/ABOUT.md)
 + [Code](/2965/2965.cpp)
 
+## 575. 分糖果
++ `哈希表`
++ [Question Description](https://leetcode.cn/problems/distribute-candies/description/)
++ [Solution](/575/ABOUT.md)
++ [Code](/575/575.cpp)
+
 </details>
 
 <details>
