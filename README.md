@@ -86,4 +86,10 @@
 + [Solution](/2928/ABOUT.md)
 + [Code](/2928/2928.cpp)
 
+## 1103. 分糖果 II
++ 暴力枚举
++ [Question Description](https://leetcode.cn/problems/distribute-candies-to-people/description/)
++ [Solution](/1103/ABOUT.md)
++ [Code](/1103/1103.cpp)
+
 </details>
