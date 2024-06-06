@@ -63,6 +63,13 @@
 + [Solution](/1953/ABOUT.md)
 + [Code](/1953/1953.cpp)
 
+## 2938. 区分黑球与白球
++ `贪心`
++ [Question Description](https://leetcode.cn/problems/separate-black-and-white-balls/description/)
++ [Solution](/2938/ABOUT.md)
++ [Code(C++)](/2938/2938.cpp)
++ [Code(Python)](/2938/2938.py)
+
 </details>
 
 
