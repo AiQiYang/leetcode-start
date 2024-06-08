@@ -94,9 +94,15 @@
 + [Code](/2928/2928.cpp)
 
 ## 1103. 分糖果 II
-+ 暴力枚举
++ `暴力枚举`
 + [Question Description](https://leetcode.cn/problems/distribute-candies-to-people/description/)
 + [Solution](/1103/ABOUT.md)
 + [Code](/1103/1103.cpp)
+
+## 100297. 找到连续赢 K 场比赛的第一位玩家
++ `模拟`
++ [Question Description](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/description/)
++ [Solution](/100297/ABOUT.md)
++ [Code](/100297/100297.cpp)
 
 </details>
